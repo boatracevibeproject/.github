@@ -1,0 +1,12 @@
+# Boatrace Vibe Project
+
+> ノリと勢いで開発するボートレースのいかれたプロジェクト
+
+## Packages
+
+| Repository | PHP | Stable | License | Test |
+|:---|:---|:---|:---|:---|
+| [BVP Scraper TeikokuDB](https://github.com/boatracevibeproject/scraper-teikokudb) | [![PHP Version Require](https://poser.pugx.org/bvp/scraper-teikokudb/require/php)](https://packagist.org/packages/bvp/scraper-teikokudb) | [![Latest Stable Version](https://poser.pugx.org/bvp/scraper-teikokudb/v/stable)](https://packagist.org/packages/bvp/scraper-teikokudb) | [![License](https://poser.pugx.org/bvp/scraper-teikokudb/license)](https://packagist.org/packages/bvp/scraper-teikokudb) | [![Test](https://github.com/boatracevibeproject/scraper-teikokudb/actions/workflows/test.yml/badge.svg)](https://github.com/boatracevibeproject/scraper-teikokudb/actions/workflows/test.yml)
+| [BVP Scraper Tamagawa](https://github.com/boatracevibeproject/scraper-tamagawa) | [![PHP Version Require](https://poser.pugx.org/bvp/scraper-tamagawa/require/php)](https://packagist.org/packages/bvp/scraper-tamagawa) | [![Latest Stable Version](https://poser.pugx.org/bvp/scraper-tamagawa/v/stable)](https://packagist.org/packages/bvp/scraper-tamagawa) | [![License](https://poser.pugx.org/bvp/scraper-tamagawa/license)](https://packagist.org/packages/bvp/scraper-tamagawa) |
+| [BVP Scraper Fukuoka](https://github.com/boatracevibeproject/scraper-fukuoka) | [![PHP Version Require](https://poser.pugx.org/bvp/scraper-fukuoka/require/php)](https://packagist.org/packages/bvp/scraper-fukuoka) | [![Latest Stable Version](https://poser.pugx.org/bvp/scraper-fukuoka/v/stable)](https://packagist.org/packages/bvp/scraper-fukuoka) | [![License](https://poser.pugx.org/bvp/scraper-fukuoka/license)](https://packagist.org/packages/bvp/scraper-fukuoka) |
+| [BVP Prefecture](https://github.com/boatracevibeproject/prefecture) | [![PHP Version Require](https://poser.pugx.org/bvp/prefecture/require/php)](https://packagist.org/packages/bvp/prefecture) | [![Latest Stable Version](https://poser.pugx.org/bvp/prefecture/v/stable)](https://packagist.org/packages/bvp/prefecture) | [![License](https://poser.pugx.org/bvp/prefecture/license)](https://packagist.org/packages/bvp/prefecture) | [![Test](https://github.com/boatracevibeproject/prefecture/workflows/Tests/badge.svg)](https://github.com/boatracevibeproject/prefecture/actions?query=workflow%3Atests)
